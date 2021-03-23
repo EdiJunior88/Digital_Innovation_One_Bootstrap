@@ -10,15 +10,6 @@ para desenvolver projetos utilizando os componentes de interface da ferramenta.
 
 <hr/>
 
-<p>
-Esse material é parte integrante do treinamento Desenvolvimento Web com HTML, CSS e JavaScript e distribuído gratuitamente 
-exclusivamente pelo site da Caelum. Todos os direitos são reservados à Caelum. A distribuição, cópia, revenda e utilização
-para ministrar treinamentos são absolutamente vedadas. Para uso comercial deste material, por favor, consulte a Caelum 
-previamente.
-</p>
-
-<hr/>
-
 <ul>
   <li>Introdução ao Bootstrap</li>
   <li>Aprenda a utilizar o Bootstrap na sua página WEB</li>
