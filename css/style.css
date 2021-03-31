@@ -18,4 +18,14 @@ body {
 
 .parceiros {
   background-color: #666A86;
+  color: white;
+}
+
+.servicos {
+  background-color: #F39006;
+}
+
+.bg-footer{
+  color: white;
+  background-color: #333333;
 }
