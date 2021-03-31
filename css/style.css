@@ -7,10 +7,15 @@ body {
 }
 
 .quem-somos {
-  background-color: #666a86;
+  background-color: #15AAEB;
   color: white;
 }
 
 .margin {
   padding-bottom: 50px;
+  padding-top: 10px;
+}
+
+.parceiros {
+  background-color: #666A86;
 }
