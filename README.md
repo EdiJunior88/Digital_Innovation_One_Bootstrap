@@ -22,4 +22,4 @@ para desenvolver projetos utilizando os componentes de interface da ferramenta.
 <hr/>
 
 <h4><b>Curso:</b> :vhs: 06 Aulas</h4>
-<h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4>
+<h4><b>Status do Curso:</b> :white_check_mark: Concluído</h4>
