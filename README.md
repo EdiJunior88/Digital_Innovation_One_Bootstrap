@@ -8,6 +8,12 @@ containers e como trabalhar com imagens dentro deles, e listas de navegação. A
 para desenvolver projetos utilizando os componentes de interface da ferramenta.
 </p>
 
+<hr>
+
+<h3>Tecnologias Utilizadas</h3>
+
+Full tech stack [here](/techstack.md)
+
 <hr/>
 
 <ul>
@@ -22,4 +28,4 @@ para desenvolver projetos utilizando os componentes de interface da ferramenta.
 <hr/>
 
 <h4><b>Curso:</b> :vhs: 06 Aulas</h4>
-<h4><b>Status do Curso:</b> :white_check_mark: Concluído</h4>
+<h4><b>Status do Curso:</b> ✅ Concluído</h4>
