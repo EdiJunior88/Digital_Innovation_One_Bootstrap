@@ -12,7 +12,7 @@ para desenvolver projetos utilizando os componentes de interface da ferramenta.
 
 <h3>Tecnologias Utilizadas</h3>
 
-Full tech stack [here](/techstack.md)
+Para ver todas as tecnologias [clique aqui](/techstack.md)
 
 <hr/>
 
