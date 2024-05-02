@@ -14,7 +14,7 @@ para desenvolver projetos utilizando os componentes de interface da ferramenta.
 
 Para ver todas as tecnologias [clique aqui](/techstack.md)
 
-<hr/>
+<hr>
 
 <ul>
   <li>Introdução ao Bootstrap</li>
